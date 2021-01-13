@@ -11,9 +11,6 @@ myCollection = mydatabase["Collection Name."]
 
 app = Flask(__name__)
 
-
-
-
 filename = "Attendence.json"
 
 # user's recents time data
