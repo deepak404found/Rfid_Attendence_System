@@ -12,3 +12,4 @@ Then python server get a request to add attendance and it process the data and s
 This data can be visualized on our web application. We can also add remove & edit users and devices through our web application.
 
 Only the admin user will be able to get access to our admin dashboard.
+Arduino Code: https://github.com/deepak404found/RFID-PIO.git
